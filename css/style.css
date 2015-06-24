@@ -11,8 +11,18 @@ img{
 }
 
 .header{
-  background-color: grey;
-  color:white;
+  background-color: #FF3399;
+  color: white;
   margin-bottom: 10px;
+  padding: 5em;
 }
 
+ul li{
+  color: black;
+}
+.row{
+}
+
+.row:nth-child(2n){
+  background-color: rgba(192,192,192,0.1);
+}
