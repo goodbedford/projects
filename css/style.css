@@ -1,5 +1,18 @@
+
+img{
+  border: 2px solid black;
+  margin-top: 5em;
+}
+
+
+
+/*classes*/
+.imgBox{
+}
+
 .header{
   background-color: grey;
   color:white;
   margin-bottom: 10px;
 }
+
